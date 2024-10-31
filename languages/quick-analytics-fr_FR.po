@@ -1,0 +1,280 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quick Analytics\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-23 06:51+0000\n"
+"PO-Revision-Date: 2018-09-29 08:15+0000\n"
+"Last-Translator: thibault <contact@thibaultcrouzet.com>\n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the plugin
+#: includes/admin/class-qa-admin.php:65 includes/admin/class-qa-admin.php:66
+msgid "Quick Analytics"
+msgstr "Quick Analytics"
+
+#: includes/admin/templates/options.php:5
+msgid "Analytics"
+msgstr "Analytiques"
+
+#: includes/admin/templates/options.php:13
+msgid "General"
+msgstr "Général"
+
+#: includes/admin/templates/options.php:19
+msgid "Analytics position"
+msgstr "Position du code d'analytique"
+
+#: includes/admin/templates/options.php:24
+#, php-format
+msgid "Include within %s tag."
+msgstr "Inclure dans le tag %s."
+
+#: includes/admin/templates/options.php:27
+#, php-format
+msgid "Include before closing %s tag."
+msgstr "Inclure avant de fermer le tag %s."
+
+#: includes/admin/templates/options.php:35
+#: includes/admin/templates/options.php:40
+msgid "Exclude Admin"
+msgstr "Exclure l'administrateur"
+
+#: includes/admin/templates/options.php:44
+msgid "Exclude Admin of the statistics."
+msgstr "Exclure l'administrateur des statistiques."
+
+#: includes/admin/templates/options.php:59
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: includes/admin/templates/options.php:65
+#: includes/admin/templates/options.php:105
+msgid "Tracking ID"
+msgstr "ID de suivi"
+
+#: includes/admin/templates/options.php:69
+msgid "Input your Google Analytics \"Tracking ID.\""
+msgstr "Ajouter votre \"ID de suivi\" de Google Analytics."
+
+#: includes/admin/templates/options.php:69
+#: includes/admin/templates/options.php:109
+#: includes/admin/templates/options.php:200
+#: includes/admin/templates/options.php:223
+#: includes/admin/templates/options.php:246
+#: includes/admin/templates/options.php:269
+#: includes/admin/templates/options.php:292
+#: includes/admin/templates/options.php:315
+#: includes/admin/templates/options.php:338
+#: includes/admin/templates/options.php:349
+msgid "Example"
+msgstr "Exemple"
+
+#: includes/admin/templates/options.php:70
+#: includes/admin/templates/options.php:110
+#, php-format
+msgid "Take your Tracking ID in %s."
+msgstr "Prenez votre ID de suivi dans %s."
+
+#: includes/admin/templates/options.php:76
+#: includes/admin/templates/options.php:81
+msgid "Anonymization IP"
+msgstr "Anonymisation des adresses IP"
+
+#: includes/admin/templates/options.php:85
+msgid "Anonymize IP addresses in tracking code."
+msgstr "Anonymiser les adresses IP dans le code de suivi."
+
+#: includes/admin/templates/options.php:99
+msgid "Yandex Metrika"
+msgstr "Yandex Metrika"
+
+#: includes/admin/templates/options.php:109
+msgid "Input your Yandex Analytics \"Tracking ID.\""
+msgstr "Ajouter votre \"ID de suivi\" de Yandex Analytics ."
+
+#: includes/admin/templates/options.php:116
+#: includes/admin/templates/options.php:121
+msgid "Click Map"
+msgstr "Cliquez sur la carte"
+
+#: includes/admin/templates/options.php:125
+msgid "Click map in tracking code."
+msgstr "Cliquez sur la carte dans le code de suivi."
+
+#: includes/admin/templates/options.php:133
+#: includes/admin/templates/options.php:138
+msgid "Track Links"
+msgstr "Suivre les liens"
+
+#: includes/admin/templates/options.php:142
+msgid "Track links in tracking code."
+msgstr "Suivre les liens dans le code de suivi."
+
+#: includes/admin/templates/options.php:150
+#: includes/admin/templates/options.php:155
+msgid "Accurate Track Bounce"
+msgstr "Accurate Track Bounce"
+
+#: includes/admin/templates/options.php:159
+msgid "Accurate Track Bounce in tracking code."
+msgstr "Accurate Track Bounce dans le code de suivi."
+
+#: includes/admin/templates/options.php:167
+#: includes/admin/templates/options.php:172
+msgid "Webvisor"
+msgstr "Webvisor"
+
+#: includes/admin/templates/options.php:176
+msgid "Webvisor in tracking code."
+msgstr "Webvisor  dans le code de suivi."
+
+#: includes/admin/templates/options.php:190
+msgid "Mixpanel"
+msgstr "Mixpanel"
+
+#: includes/admin/templates/options.php:196
+#: includes/admin/templates/options.php:311
+msgid "Token"
+msgstr "Token"
+
+#: includes/admin/templates/options.php:200
+msgid "Input your Mixpanel \"Token.\""
+msgstr "Ajouter votre \"Token\" de Mixpanel."
+
+#: includes/admin/templates/options.php:201
+#: includes/admin/templates/options.php:316
+#, php-format
+msgid "Take your Token in %s."
+msgstr "Prenez votre Token dans %s."
+
+#: includes/admin/templates/options.php:213
+msgid "Kissmetrics"
+msgstr "Kissmetrics"
+
+#: includes/admin/templates/options.php:219
+msgid "Key"
+msgstr "Clé"
+
+#: includes/admin/templates/options.php:223
+msgid "Input your Kissmetrics \"Key.\""
+msgstr "Ajouter votre \"Clé\" de Kissmetrics."
+
+#: includes/admin/templates/options.php:224
+#, php-format
+msgid "Take your Key in %s."
+msgstr "Prenez votre Clé dans %s."
+
+#: includes/admin/templates/options.php:236
+msgid "Woopra"
+msgstr "Woopra"
+
+#: includes/admin/templates/options.php:242
+msgid "Domain"
+msgstr "Domaine"
+
+#: includes/admin/templates/options.php:246
+msgid "Input your Woopra \"Domain.\""
+msgstr "Ajouter votre \"Domaine\" de Woopra."
+
+#: includes/admin/templates/options.php:247
+#, php-format
+msgid "Take your Domain in %s."
+msgstr "Prenez votre Domaine dans %s."
+
+#: includes/admin/templates/options.php:259
+msgid "Gauges"
+msgstr "Gauges"
+
+#: includes/admin/templates/options.php:265
+msgid "Site ID"
+msgstr "ID du site"
+
+#: includes/admin/templates/options.php:269
+msgid "Input your Gauges \"Site ID.\""
+msgstr "Ajouter votre \"ID du site\" de Gauges."
+
+#: includes/admin/templates/options.php:270
+#, php-format
+msgid "Take your Site ID in %s."
+msgstr "Prenez votre ID du site dans %s."
+
+#: includes/admin/templates/options.php:282
+msgid "Heap"
+msgstr "Heap"
+
+#: includes/admin/templates/options.php:288
+msgid "App ID"
+msgstr "ID de l'application"
+
+#: includes/admin/templates/options.php:292
+msgid "Input your Heap \"App ID.\""
+msgstr "Ajouter votre \"ID de l'application\" de Heap."
+
+#: includes/admin/templates/options.php:293
+#, php-format
+msgid "Take your App ID in %s."
+msgstr "Prenez votre ID de l'application dans %s."
+
+#: includes/admin/templates/options.php:305
+msgid "GoSquared"
+msgstr "GoSquared"
+
+#: includes/admin/templates/options.php:315
+msgid "Input your GoSquared \"Token.\""
+msgstr "Ajouter votre \"Token\" de GoSquared."
+
+#: includes/admin/templates/options.php:328
+msgid "Statcounter"
+msgstr "Statcounter"
+
+#: includes/admin/templates/options.php:334
+msgid "Project"
+msgstr "Projet"
+
+#: includes/admin/templates/options.php:338
+msgid "Input your Statcounter \"Project.\""
+msgstr "Ajouter votre \"Projet\" de Statcounter."
+
+#: includes/admin/templates/options.php:339
+#, php-format
+msgid "Take your Project in %s."
+msgstr "Prenez votre Projet dans %s."
+
+#: includes/admin/templates/options.php:345
+msgid "Security"
+msgstr "Sécurité"
+
+#: includes/admin/templates/options.php:349
+msgid "Input your Statcounter \"Security.\""
+msgstr "Ajouter votre \"Sécurité\" de Statcounter."
+
+#: includes/admin/templates/options.php:350
+#, php-format
+msgid "Take your Security in %s."
+msgstr "Prenez votre Sécurité dans %s."
+
+#. Description of the plugin
+msgid ""
+"A simple plugin that helps you to integrate quickly your analytics tracking "
+"IDs."
+msgstr ""
+"Un module simple qui vous aide à intégrer rapidement vos ID de suivi "
+"d'analyse."
+
+#. URI of the plugin
+msgid "https://thibaultcrouzet.com/"
+msgstr "http://thibaultcrouzet.com/"
+
+#. Author of the plugin
+msgid "Thibault Crouzet"
+msgstr "Thibault Crouzet"
+
+#. Author URI of the plugin
+msgid "https://thibaultcrouzet.com"
+msgstr "http://thibaultcrouzet.com/"
